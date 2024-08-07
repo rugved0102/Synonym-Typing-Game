@@ -12,6 +12,7 @@ The Synonym Typing Game is an engaging and educational game where players type s
 - **Animations**: Subtle animations for enhanced user experience.
 
 ## Demo
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/5e87d149-f15d-4dc8-b9a7-5a18d83d54de)
+
 
 
